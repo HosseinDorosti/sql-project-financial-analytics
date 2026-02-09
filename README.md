@@ -72,7 +72,8 @@ fin DimExpenseCategory
 
 Relationships are single-directional from dimensions to facts to avoid ambiguity and ensure predictable filtering behavior.
 
-(https://github.com/HosseinDorosti/sql-project-financial-analytics/blob/main/screenshots/Data%20Model%20view.png)
+## 🧱 Data Model
+![Data Model](screenshots/data-model.png)
 
 📈 Key Metrics & KPIs
 
@@ -101,7 +102,8 @@ Cash In vs Cash Out (Monthly)
 
 Accounts Receivable Aging (Overdue Balance)
 
-(https://github.com/HosseinDorosti/sql-project-financial-analytics/blob/main/screenshots/Executive%20Overview%20page.png)
+## 📊 Executive Overview
+![Executive Overview](screenshots/executive-overview.png)
 
 ⏱️ Accounts Receivable Aging Logic
 
@@ -150,7 +152,8 @@ Confirm aging logic
 
 This page can be hidden in production but demonstrates strong analytical discipline.
 
-https://github.com/HosseinDorosti/sql-project-financial-analytics/blob/main/screenshots/QA%20%E2%80%93%20Validation.png
+## 🧪 QA / Validation
+![QA Validation](screenshots/qa-validation.png)
 
 🎯 Business Value
 
