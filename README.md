@@ -104,6 +104,8 @@ Accounts Receivable Aging (Overdue Balance)
 
 ## 📊 Executive Overview
 ![Executive Overview](screenshots/executive-overview.png)
+*Executive dashboard highlighting revenue, cash flow, and receivables risk*
+
 
 ⏱️ Accounts Receivable Aging Logic
 
